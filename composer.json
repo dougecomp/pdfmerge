@@ -1,0 +1,14 @@
+{
+    "name": "deusilva/pdfmerge",
+    "description": "Project to merge multiple interval of a same pdf to a new pdf",
+    "type": "project",
+    "require": {
+        "iio/libmergepdf": "^4.0"
+    },
+    "authors": [
+        {
+            "name": "Douglas Silva",
+            "email": "deusilva@uefs.br"
+        }
+    ]
+}
